@@ -30,9 +30,9 @@ body {
     transform-origin: top left;
 }
 
-.logo img {
-    justify-content: center;
-    width: 100px;
+.logo a{
+    text-decoration: none;
+    color: white;
 }
 
 .menu {
